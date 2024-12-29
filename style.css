@@ -1,0 +1,102 @@
+.link:nth-child(even) {
+    color: black;
+    background-color: blueviolet;
+}
+.link:nth-child(odd){
+    color: black;
+    background-color: blueviolet;
+}
+.link:hover{
+    color: black;
+    background-color: white;
+}
+.iaa:nth-child(even) {
+    color: blueviolet;
+    background-color: black;
+}
+.iaa:nth-child(odd){
+    color: aqua;
+    background-color: blue;
+}
+    .iaa:hover{
+        color: black;
+        background-color: white;
+    }
+    .aii:nth-child(even) {
+        color: aqua;
+        background-color: blue;
+    }
+    .aii:nth-child(odd){
+        color: blueviolet;
+        background-color: black;
+    }
+    .aii:hover{
+        color: black;
+        background-color: white;
+    }
+    .aai:nth-child(even) {
+        color: blueviolet;
+        background-color: black;
+    }
+    .aai:nth-child(odd){
+        color: aqua;
+        background-color: blue;
+    }
+    .aai:hover{
+        color: black;
+        background-color: white;
+    }
+    .rra:nth-child(even) {
+        color: aqua;
+        background-color: blue;
+    }
+    .rra:nth-child(odd){
+        color: blueviolet;
+        background-color: black;
+    }
+    .rra:hover{
+        color: black;
+        background-color: white;
+    }
+    .arr:nth-child(even) {
+        color: blueviolet;
+        background-color: black;
+    }
+    .arr:nth-child(odd){
+        color: aqua;
+        background-color: blue;
+    }
+    .arr:hover{
+        color: black;
+        background-color: white;
+    }
+    .raa:nth-child(even) {
+        color: aqua;
+        background-color: blue;
+    }
+    .raa:nth-child(odd){
+        color: blueviolet;
+        background-color: black;
+    }
+    .raa:hover{
+        color: black;
+        background-color: white;
+    }
+    .love:nth-child(even) {
+        color: blueviolet;
+        background-color: black;
+    }
+    .love:nth-child(odd){
+        color: aqua;
+        background-color: blue;
+    }
+    .love:hover{
+        color: black;
+        background-color: white;
+    }
+
+
+
+
+    
+
